@@ -73,6 +73,25 @@ export const certifications = [
   },
   {
     id: "cert2",
+    title: "Intro to Machine Learning",
+    issuer: "Kaggle",
+    date: "November 2026",
+    image: "public/Certificates/intro to ML kaggle.png",
+    credentialUrl: "https://www.kaggle.com/learn/certification/mhdrikas20/intro-to-machine-learning",
+    tags: ["Machine Learning"],
+  },
+  {
+    id: "cert3",
+    title: "Intermediate Machine Learning",
+    issuer: "Kaggle",
+    date: "November 2026",
+    image: "public/Certificates/Intermediate ML kaggle.png",
+    credentialUrl: "https://www.kaggle.com/learn/certification/mhdrikas20/intermediate-machine-learning",
+    tags: ["Machine Learning"],
+  },
+  
+  {
+    id: "cert4",
     title: "AI/ML Engineer - Stage 1",
     issuer: "SLIIT",
     date: "June 2026",
@@ -81,7 +100,7 @@ export const certifications = [
     tags: ["AI", "ML"],
   },
   {
-    id: "cert3",
+    id: "cert5",
     title: "Fundamentals of Accelerated Data Science",
     issuer: "NVIDIA",
     date: "April 2026",
@@ -90,7 +109,7 @@ export const certifications = [
     tags: ["Analytical Skills", "Data Modeling", "Statistical Data Analysis", "Data Analysis"],
   },
   {
-    id: "cert4",
+    id: "cert6",
     title: "Data Analyst Foundations-Google",
     issuer: "Udemy",
     date: "July 2026",
@@ -99,7 +118,16 @@ export const certifications = [
     tags: ["Data Analyst"],
   },
   {
-    id: "cert5",
+    id: "cert7",
+    title: "AI Fundamentals Foundations",
+    issuer: "IBM",
+    date: "November 2026",
+    image: "public/Certificates/AI Fundamentals.png",
+    credentialUrl: "https://skills.yourlearning.ibm.com/credential/CREDLY-e440a1be-c35b-4604-b698-1b6d089acb11",
+    tags: ["Machine Learning","Artificial Intelligence","Computer Vision AI","Deep Learning","Neural Networks","Generative AI for Web Developers","Applications of AI","Bias Detection"],
+  },
+  {
+    id: "cert8",
     title: "AI Models Mastery Chatgpt, Gemini and DeepSeek",
     issuer: "Udemy",
     date: "September 2026",
@@ -109,7 +137,7 @@ export const certifications = [
 
   },
   {
-    id: "cert6",
+    id: "cert9",
     title: "Genarative AI",
     issuer: "Sololearn",
     date: "February 2026",
@@ -119,7 +147,7 @@ export const certifications = [
   },
 
   {
-    id: "cert7",
+    id: "cert10",
     title: "AWS Certified Solutions Architect",
     issuer: "AWS Student Builder Group at University of Jaffna",
     date: "june 2026",
@@ -128,7 +156,7 @@ export const certifications = [
     tags: ["AWS", "Cloud Computing", "Solution Architecture"],
   },
   {
-    id: "cert8",
+    id: "cert11",
     title: "AWS Cloud Club-Univesity of Jaffna",
     issuer: "AWS Student Builder Group at University of Jaffna",
     date: "Jan 2026",
@@ -137,7 +165,7 @@ export const certifications = [
     tags: ["AWS", "Cloud Computing", "Amazon S3", "Amazon EC2", "IAM"],
   },
   {
-    id: "cert9",
+    id: "cert12",
     title: "Introduction to python",
     issuer: "Sololearn",
     date: "January 2026",
@@ -146,7 +174,7 @@ export const certifications = [
     tags: ["Python", "Programming"],
   },
   {
-    id: "cert10",
+    id: "cert13",
     title: "Python for Beginners",
     issuer: "University of Moratuwa",
     date: "June 2026",
@@ -155,7 +183,7 @@ export const certifications = [
     tags: ["Programming", "Python"],
   },
   {
-    id: "cert11",
+    id: "cert14",
     title: "Python Intermediate",
     issuer: "Sololearn",
     date: "January 2026",
@@ -165,7 +193,7 @@ export const certifications = [
   },
 
   {
-    id: "cert12",
+    id: "cert15",
     title: "Introduction to CIP",
     issuer: "OPSWAT Academy",
     date: "June 2026",
